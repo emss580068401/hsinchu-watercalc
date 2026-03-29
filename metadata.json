@@ -1,0 +1,7 @@
+{
+  "name": "水源計算機 2.3.1",
+  "description": "A high-contrast, glove-friendly water supply calculator for firefighters to estimate water demand, tank capacity, and relay pumping logic in the field.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

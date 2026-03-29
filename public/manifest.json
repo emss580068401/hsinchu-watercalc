@@ -1,0 +1,17 @@
+{
+  "name": "新竹縣水源計算機",
+  "short_name": "水源計算",
+  "description": "消防水源計算機 PWA - 支援離線使用",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
